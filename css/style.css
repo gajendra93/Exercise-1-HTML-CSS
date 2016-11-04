@@ -2,7 +2,7 @@ body {
 	background-color: rgb(225,225,225);
 	font-family: "sans-serif";
 }
-div {
+.wrap {
 	width: 600px;
 	margin: auto;
 }
