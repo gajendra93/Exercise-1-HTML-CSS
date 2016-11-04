@@ -1,0 +1,13 @@
+body {
+	background-color: rgb(225,225,225);
+	font-family: "sans-serif";
+}
+div {
+	width: 600px;
+	margin: auto;
+}
+blockquote {
+	text-align: center;
+	border: 1px solid #ffffff;
+	margin-left: 0;
+}
